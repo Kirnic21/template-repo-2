@@ -10,9 +10,8 @@ module.exports = {
         "ecmaVersion": "latest",
         "sourceType": "module"
     },
-    "rules": {
-    }
-    {
+    "rules": 
+      { 
         "extends": [
           "some-other-config-you-use",
           "prettier"
